@@ -1,6 +1,6 @@
 [submodule "polaris"]
 	path = polaris
-	url = https://github.com/apache/polaris.git
+	url = https://github.com/apache/polaris
 	branch = main
 	ignore = untracked
 [submodule "dagster-dag-luchtmeetnet"]
