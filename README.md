@@ -23,7 +23,7 @@ The example DAG is hosted [here](). It ingests measured air quality data for 99 
 This repository contains submodules. You must clone it using:
 
 ```
-git clone --recurse-submodules URL
+git clone --recurse-submodules https://github.com/JasperHG90/dagster-pyiceberg-example-polaris
 ```
 
 ### Devcontainer
