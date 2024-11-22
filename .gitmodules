@@ -1,0 +1,8 @@
+[submodule "polaris"]
+	path = polaris
+	url = https://github.com/apache/polaris.git
+	branch = main
+[submodule "dagster-dag-luchtmeetnet"]
+	path = dagster-dag-luchtmeetnet
+	url = https://github.com/JasperHG90/dagster-dag-luchtmeetnet
+	branch = main
