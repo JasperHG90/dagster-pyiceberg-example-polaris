@@ -1,4 +1,4 @@
-# dagster-pyiceberg example using postgresql catalog
+# dagster-pyiceberg example using an Apache Polaris catalog
 
 > [!WARNING] dagster-pyiceberg is in development
 >
