@@ -37,10 +37,6 @@ This repository contains a devcontainer that spins up all required resources usi
 
 All required details required to connect to the above services are added to the dotenv file found in .devcontainer/.env. This dotenv file is automatically loaded in the devcontainer environment.
 
-### Installing dependencies
-
-Execute `just s` to install the example DAG.
-
 ### Creating a landing zone bucket
 
 The 'warehouse' bucket is automatically created on startup, but the 'landingzone' bucket needs to be created manually (one time action). To do this, execute `just clz`.
@@ -66,7 +62,3 @@ Minio is available on [localhost:9001](http://localhost:9001). Username and pass
 ## Inspecting the generated tables using `pyiceberg`
 
 You can find Jupyter notebooks in the 'notebooks' folder.
-
-## Inspecting the Polaris catalog
-
-...
